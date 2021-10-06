@@ -1,0 +1,269 @@
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 09:06:04 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 0 ms
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 0 ms
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 5 ms
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 09:06:05 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 5 ms
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 09:48:52 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 1 ms
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 0 ms
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 1 ms
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 09:48:53 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 2 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : OS Version:		10.0
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Architecture:		amd64
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/a
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/a has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 0 ms
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/a
+09 11, 2021 10:00:25 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/a has finished in 0 ms
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 258 ms
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 1 ms
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 1 ms
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 1 ms
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 10:44:57 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 184 ms
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 1 ms
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 0 ms
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 1 ms
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 11:13:38 上午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 11:13:58 上午 com.hou.mytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at com.hou.mytomcat.catalina.Server$1.run(Server.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 224 ms
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 1 ms
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 1 ms
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 1 ms
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 15:55:53 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\a
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\a has finished in 228 ms
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\b
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\b has finished in 0 ms
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\web\mytomcat\webapps\ROOT
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:\web\mytomcat\webapps\ROOT has finished in 0 ms
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:/web/mytomcat/webapps/b
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Context <init>
+INFO : Deploying of web application directory D:/web/mytomcat/webapps/b has finished in 0 ms
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server built:		2021-09-10 09:00:00
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : Java Home:		C:\Users\dell\.jdks\corretto-1.8.0_292\jre
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_292-b10
+09 11, 2021 15:55:56 下午 com.hou.mytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Server>
+    <!--Service是为了管理Connector和Container,就是哪个请求给哪个container处理,一个service包含一个container和多个connector-->
+    <Service name="Catalina">
+        <!--多个监听端口，还可以扩展每个端口对应一种协议-->
+<!--        compressionMinSize表示最小进行压缩的字节数-->
+<!--        noCompressionUserAgents表示不进行压缩的浏览器-->
+<!--        compressibleMimeType表示哪些MimeType需要压缩-->
+        <ConnectorBIO port="18080" compression="on" compressionMinSize="100" noCompressionUserAgents="gozilla,traviata"
+                   compressibleMimeType="text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"/>
+        <ConnectorBIO port="18081" compression="on" compressionMinSize="100" noCompressionUserAgents="gozilla,traviata"
+                      compressibleMimeType="text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"/>
+        <ConnectorBIO port="18082" compression="on" compressionMinSize="100" noCompressionUserAgents="gozilla,traviata"
+                      compressibleMimeType="text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"/>
+        <!--server引擎，用于具体请求的处理，可以有多个Host-->
+        <Engine defaultHost="localhost">
+            <!--虚拟主机，使主机提供多个域名-->
+            <Host name="localhost">
+                <!--web应用-->
+                <Context path="/b" docBase="D:/web/mytomcat/webapps/b" />
+                <Context path="/javaweb" docBase="D:/web/javaweb/web" reloadable="true"/>
+            </Host>
+        </Engine>
+    </Service>
+</Server>
